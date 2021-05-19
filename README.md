@@ -1,6 +1,6 @@
 ## 👋 Introduction
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%91%A9-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/rebeccamcfadden) [![](https://img.shields.io/badge/Check%20out%20my-Portfolio-red)](http://rebeccamcfadden.com/)
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%91%A9-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/rebeccamcfadden) 
 
 Hi! I'm **Rebecca McFadden**, a senior Computer Science Major from Texas A&M University. 
 
