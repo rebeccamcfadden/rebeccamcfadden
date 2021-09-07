@@ -20,7 +20,7 @@ Hi! I'm **Rebecca McFadden**, a senior Computer Science Major from Texas A&M Uni
 ## :trophy: Some Final Things
 
 - 🔭 I’m currently working on my degree
-- 👩‍💼 I will intern this summer at Mojang Studios as a Software Engineer!
+- 👩‍💼 I interned summer 2020 and 2021 at Mojang Studios as a Software Engineer!
 - 🌱 I’m currently learning some nifty graphics things :)
 - 💬 Ask me anything!
 - 👩‍💻 Pronouns: She/her
