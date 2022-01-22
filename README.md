@@ -2,7 +2,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%91%A9-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/rebeccamcfadden) 
 
-Hi! I'm **Rebecca McFadden**, a senior Computer Science Major from Texas A&M University. 
+Hi! I'm **Rebecca McFadden**, a senior Computer Science Major from the Washington D.C area studying at Texas A&M University. 
 
 ## 📫 Contact Me on Social Media
 
@@ -10,6 +10,7 @@ Hi! I'm **Rebecca McFadden**, a senior Computer Science Major from Texas A&M Uni
 
 ## 💡 Projects with My Work
 
+- [**Gatekeeper**](https://github.com/gatekeeper-tamu/gatekeeper): WIP - Ruby on Rails Subscription/Password Management and Sharing Application - Developed for CS431
 - [**Cabin Road Photos**](https://github.com/tamuseanmiller/Cabin-Road-Photos): 🌲 Android Slideshow Photo Viewer Google Home Hub like Application
  
 ## 💻 Open Source Work Stats
@@ -20,7 +21,7 @@ Hi! I'm **Rebecca McFadden**, a senior Computer Science Major from Texas A&M Uni
 ## :trophy: Some Final Things
 
 - 🔭 I’m currently working on my degree
-- 👩‍💼 I interned summer 2020 and 2021 at Mojang Studios as a Software Engineer!
+- 👩‍💼 I start work Aug2022 at Mojang Studios as a Software Engineer!
 - 🌱 I’m currently learning some nifty graphics things :)
 - 💬 Ask me anything!
 - 👩‍💻 Pronouns: She/her
