@@ -13,11 +13,9 @@ Hi! I'm **Rebecca McFadden**, a senior Computer Science Major from the Washingto
 - [**Gatekeeper**](https://github.com/gatekeeper-tamu/gatekeeper): WIP - Ruby on Rails Subscription/Password Management and Sharing Application - Developed for CS431
 - [**Cabin Road Photos**](https://github.com/tamuseanmiller/Cabin-Road-Photos): 🌲 Android Slideshow Photo Viewer Google Home Hub like Application
  
-## 💻 Work Stats
-  ![Rebecca McFadden's Github stats](https://github-readme-stats.vercel.app/api?username=rebeccamcfadden&show_icons=true&layout=compact)
-  
-## 👩‍💻 Top Languages
-  ![Rebecca McFadden's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccamcfadden&show_icons=true&layout=compact)
+## 💻 Stats
+  ![Rebecca McFadden's Github stats](https://github-readme-stats.vercel.app/api?username=rebeccamcfadden&show_icons=true&layout=compact&theme=tokyonight&count_private=true&hide=contribs)
+  ![Rebecca McFadden's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccamcfadden&show_icons=true&layout=compact&theme=tokyonight)  
 
 ## :trophy: Some Final Things
 
