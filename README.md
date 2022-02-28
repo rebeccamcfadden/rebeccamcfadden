@@ -14,8 +14,8 @@ Hi! I'm **Rebecca McFadden**, a senior Computer Science Major from the Washingto
 - [**Cabin Road Photos**](https://github.com/tamuseanmiller/Cabin-Road-Photos): 🌲 Android Slideshow Photo Viewer Google Home Hub like Application
  
 ## 💻 Stats
-  ![Rebecca McFadden's Github stats](https://github-readme-stats.vercel.app/api?username=rebeccamcfadden&show_icons=true&layout=compact&theme=tokyonight&count_private=true&hide=contribs)
-  ![Rebecca McFadden's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccamcfadden&show_icons=true&layout=compact&theme=tokyonight)  
+  ![Rebecca McFadden's Github stats](https://github-readme-stats.vercel.app/api?username=rebeccamcfadden&show_icons=true&layout=compact&theme=vue-dark&count_private=true&hide=contribs&hide_border=true)
+  ![Rebecca McFadden's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccamcfadden&show_icons=true&layout=compact&theme=vue-dark&count_private=true&hide=css&hide_border=true)  
 
 ## :trophy: Some Final Things
 
